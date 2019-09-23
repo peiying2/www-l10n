@@ -21,7 +21,6 @@ mission_get_involved = Get involved
 
 mission_forums = Forums
 
-# TAG: bug_1251061_copy_update
 mission_our_mission_is_to_ensure_the_internet = Our mission is to ensure the Internet is a global public resource, open and accessible to all. An Internet that truly puts people first, where individuals can shape their own experience and are empowered, safe and independent.
 
 mission_our_mission_is_to_promote_openness = Our mission is to promote openness, innovation & opportunity on the Web.
