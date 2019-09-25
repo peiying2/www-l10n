@@ -1,9 +1,9 @@
 # NOTE: https://www-dev.allizom.org/mission/ the video is not localizable for now, only the text
-mission_were_building_a_better_internet = Tunajenga Mtandao bora
+mission-were-building-a-better-internet = Tunajenga Mtandao bora
 
-mission_forums = Kongamano
+mission-forums = Kongamano
 
-mission_history = Historia
+mission-history = Historia
 
-mission_governance = Utawala
+mission-governance = Utawala
 
